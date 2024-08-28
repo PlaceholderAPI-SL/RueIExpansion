@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RueIExpansion", "RueIExpansion\RueIExpansion.csproj", "{1861F21A-63B4-4830-B653-E232D3D47A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RueITest", "RueITest\RueITest.csproj", "{0D935B92-6D0F-4AA6-B059-30C3E51202F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1861F21A-63B4-4830-B653-E232D3D47A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1861F21A-63B4-4830-B653-E232D3D47A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1861F21A-63B4-4830-B653-E232D3D47A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1861F21A-63B4-4830-B653-E232D3D47A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D935B92-6D0F-4AA6-B059-30C3E51202F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D935B92-6D0F-4AA6-B059-30C3E51202F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D935B92-6D0F-4AA6-B059-30C3E51202F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D935B92-6D0F-4AA6-B059-30C3E51202F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D910D885-2D23-49F3-AC23-1BD889CD42E1}
+	EndGlobalSection
+EndGlobal
